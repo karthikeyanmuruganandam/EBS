@@ -24,4 +24,4 @@ jobs:
         environment_name: Test-env-1
         version_label: v1.1
         region: ap-south-1
-        deployment_package: deploy.zip
+        deployment_package: 2021050WwL-nodejs.zip
